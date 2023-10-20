@@ -1,0 +1,1 @@
+{"version":3,"file":"logToMongo.js","sourceRoot":"","sources":["../../src/middlewares/logToMongo.ts"],"names":[],"mappings":";;;;;;;;;;;AACA,MAAM,cAAc,GAAG,OAAO,CAAC,iBAAiB,CAAC,CAAC;AAElD,kBAAe,CAAM,GAAY,EAAE,EAAE;IACnC,GAAG,CAAC,GAAG,CAAC,cAAc,CAAC;QACrB,gBAAgB,EAAE,qGAAqG;KACxH,CAAC,CAAC,CAAC;AACN,CAAC,CAAA,CAAA"}

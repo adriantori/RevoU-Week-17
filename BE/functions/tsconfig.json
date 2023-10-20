@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./src/types", "./node_modules/@types"],
+    "target": "es2016",
+    "module": "commonjs",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "noImplicitReturns": false,
+    "noUnusedLocals": false,
+    "sourceMap": true,
+    // Add any other settings you need from either tsconfig1 or tsconfig2
+  },
+  "compileOnSave": true,
+  "include": ["src"]
+}

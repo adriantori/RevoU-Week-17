@@ -1,0 +1,42 @@
+[debug] [2023-10-20T02:40:15.272Z] ----------------------------------------------------------------------
+[debug] [2023-10-20T02:40:15.276Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\AdriA\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js functions:config:set week17adriantoribe.jwt_sign=smittywerbenjagermanjensen week17adriantoribe.port=8080 week17adriantoribe.mysql_uri=mysql://avnadmin:AVNS_KEUOJt8hmNbC-eGDKyE@mysql-week16-adriantori11-revou.aivencloud.com:28384/defaultdb?ssl-mode=REQUIRED
+[debug] [2023-10-20T02:40:15.277Z] CLI Version:   12.7.0
+[debug] [2023-10-20T02:40:15.278Z] Platform:      win32
+[debug] [2023-10-20T02:40:15.278Z] Node Version:  v18.16.0
+[debug] [2023-10-20T02:40:15.280Z] Time:          Fri Oct 20 2023 09:40:15 GMT+0700 (Indochina Time)
+[debug] [2023-10-20T02:40:15.281Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-10-20T02:40:20.639Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\AdriA\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-10-20T02:40:35.421Z] ----------------------------------------------------------------------
+[debug] [2023-10-20T02:40:35.429Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\AdriA\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js functions:config:set week17adriantoribe.jwt_sign=smittywerbenjagermanjensen week17adriantoribe.port=8080 week17adriantoribe.mysql_uri=mysql://avnadmin:AVNS_KEUOJt8hmNbC-eGDKyE@mysql-week16-adriantori11-revou.aivencloud.com:28384/defaultdb?ssl-mode=REQUIRED
+[debug] [2023-10-20T02:40:35.430Z] CLI Version:   12.7.0
+[debug] [2023-10-20T02:40:35.431Z] Platform:      win32
+[debug] [2023-10-20T02:40:35.431Z] Node Version:  v18.16.0
+[debug] [2023-10-20T02:40:35.434Z] Time:          Fri Oct 20 2023 09:40:35 GMT+0700 (Indochina Time)
+[debug] [2023-10-20T02:40:35.434Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-10-20T02:40:40.636Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\AdriA\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-10-20T02:41:38.182Z] ----------------------------------------------------------------------
+[debug] [2023-10-20T02:41:38.187Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\AdriA\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy --only functions
+[debug] [2023-10-20T02:41:38.188Z] CLI Version:   12.7.0
+[debug] [2023-10-20T02:41:38.188Z] Platform:      win32
+[debug] [2023-10-20T02:41:38.189Z] Node Version:  v18.16.0
+[debug] [2023-10-20T02:41:38.191Z] Time:          Fri Oct 20 2023 09:41:38 GMT+0700 (Indochina Time)
+[debug] [2023-10-20T02:41:38.191Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-10-20T02:41:43.374Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\AdriA\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[error] 
+[error] Error: An unexpected error has occurred.
